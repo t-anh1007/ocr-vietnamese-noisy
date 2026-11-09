@@ -1,0 +1,12 @@
+# moi truong ao + cache
+venv/
+__pycache__/
+*.pyc
+
+# du lieu VinText: KHONG duoc phat tan lai (dieu khoan cua VinAI) -> tu tai ve theo README
+data/
+lexicon.pkl
+samples/
+samples_noisy/
+debug/
+results_*.csv
